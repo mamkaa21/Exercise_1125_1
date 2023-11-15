@@ -1,4 +1,4 @@
-﻿class CommandCreateStudent : CommandStudent
+﻿class CommandCreateStudent : UserCommand
 {
     private StudentDB studentDB;
 
